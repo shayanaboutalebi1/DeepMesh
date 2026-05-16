@@ -77,6 +77,15 @@ TelnetOS with cube-based share layer
 🧬 Use Case
 “Generate emotionally rich, guerrilla-style marketing campaigns using deep AI memory, nostalgic product mapping, and live market analytics.”
 
+## ➕ New: Sponsorship Mesh Module (Met Gala Model)
+
+Added non-breaking module for modeling sponsored access paths.
+
+### Quick Start
+```bash
+mkdir -p modules docs
+# Add the two new files above
+
 🛡 License
 © iV7 / wareZwolf / BDS. All rights reserved under the NFS designations. For private use only.
 
